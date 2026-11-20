@@ -1,8 +1,8 @@
 # GTA 6 Clipper — make.fun bounty entry
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/gta6-clipper-01)
-[![Bounty $500](https://img.shields.io/badge/bounty-%24500-brightgreen)](https://make.fun/bounty/gta6-clipper-01)
-[![YouTube Short](https://img.shields.io/badge/YouTube-Short-red)](https://www.youtube.com/shorts/G-okqzYuiSQ)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/L200150013/gta6-clipper-01-v2/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/L200150013/gta6-clipper-01-v2/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 ## The clip
 
